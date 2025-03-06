@@ -1,1 +1,3 @@
 print("tin")
+
+print("number")
